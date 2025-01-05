@@ -21,7 +21,7 @@ spec:
         image: 0988118277x/static-web
         livenessProbe:
           httpGet:
-            path: /qweoo77889
+            path: /qw885522
             port: 8888
           initialDelaySeconds: 60
           periodSeconds: 60
