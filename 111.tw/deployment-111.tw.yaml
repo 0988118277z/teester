@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: 111-tw
-        image: 0988118277x/static-web
+        image: 0988118277x/py38
         livenessProbe:
           httpGet:
             path: /qw885522
