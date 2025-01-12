@@ -1,5 +1,3 @@
 # teester
 
-Hello World
-Hello JOJO
-Hello AOAOAO
+Hello tester CD
